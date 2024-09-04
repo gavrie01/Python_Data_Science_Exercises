@@ -1,7 +1,7 @@
 # Python_Data_Science_Exercises
 
-I am taking the exercises from this UDEMY course:
-https://www.udemy.com/share/1013n43@-LcdKND5UQtu7kQBDRAqHI3jkeplmldOcNmxJ9SGlvcN4EvyjyfdREdOug1dfRThhg==/
+I am taking the exercises from this [UDEMY course](https://www.udemy.com/share/1013n43@-LcdKND5UQtu7kQBDRAqHI3jkeplmldOcNmxJ9SGlvcN4EvyjyfdREdOug1dfRThhg==/)
+
 
 I strongly recommend the home tasks section, it contains a lot of interesting topics not only to pump up your python knowledge, but also to understand more things about data, math and analytics.
 
