@@ -7,13 +7,13 @@ I strongly recommend the home tasks section, it contains a lot of interesting to
 
 This repo contains my variants of solutions for the home tasks. 
 
-Task #1:  |  Law of Large Numbers                         |  Done
---------------------------------------------------------------------------
-Task #2:  |  Financial Statement Analysis 2 Parts         |  Planned
---------------------------------------------------------------------------
-Task #3:  |  Basketball Free Throws                       |  Planned
---------------------------------------------------------------------------
-Task #4:  |  World Trends 2 Parts                         |  Planned
---------------------------------------------------------------------------
-Task #5:  |  Movie Domestics % Gross                      |  Planned
---------------------------------------------------------------------------
+ | Task #1:  |  Law of Large Numbers                         |  Done         | 
+ | --------------------------------------------------------------------------| 
+ | Task #2:  |  Financial Statement Analysis 2 Parts         |  Planned      | 
+ | --------------------------------------------------------------------------| 
+ | Task #3:  |  Basketball Free Throws                       |  Planned      |  
+ | --------------------------------------------------------------------------| 
+ | Task #4:  |  World Trends 2 Parts                         |  Planned      | 
+ | --------------------------------------------------------------------------| 
+ | Task #5:  |  Movie Domestics % Gross                      |  Planned      | 
+ | --------------------------------------------------------------------------| 
