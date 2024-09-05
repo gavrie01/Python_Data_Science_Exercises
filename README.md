@@ -9,7 +9,7 @@ This repo contains my variants of solutions for the home tasks.
 
 Task #1:  |  [Law of Large Numbers](https://github.com/gavrie01/Python_Data_Science_Exercises/blob/main/Law_Large_Numbers.ipynb)                       |  Done
 --------------------------------------------------------------------------
-Task #2:  |  [Financial Statement Analysis](https://github.com/gavrie01/Python_Data_Science_Exercises/blob/main/Law_Large_Numbers.ipnb)                        |  Planned
+Task #2:  |  [Financial Statement Analysis](https://github.com/gavrie01/Python_Data_Science_Exercises/blob/main/Law_Large_Numbers.ipnb)                        |  Done
 --------------------------------------------------------------------------
 Task #3:  |  Basketball Free Throws                       |  Planned
 --------------------------------------------------------------------------
