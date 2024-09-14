@@ -13,7 +13,9 @@ Task #2:  |  [Financial Statement Analysis](https://github.com/gavrie01/Python_D
 --------------------------------------------------------------------------
 Task #3:  |  [Basketball Free Throws](https://github.com/gavrie01/Python_Data_Science_Exercises/blob/main/Baskeball_Free_Throws.ipnb)                        |  Done
 --------------------------------------------------------------------------
-Task #4:  |  World Trends                                 |  Planned
+Task #4:  |  [World Trends](https://github.com/gavrie01/Python_Data_Science_Exercises/blob/main/World_Trends.ipnb)                        |  Done
 --------------------------------------------------------------------------
 Task #5:  |  Movie Domestics % Gross                      |  Planned
 --------------------------------------------------------------------------
+
+Data Sets are taken from www.superdatascience.com
